@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++, Embedded C, FPGA Verilog programing, CAD and FEA.
 - 🌱 I’m currently learning at AGH Univerisity of Science and Technology in Cracow. Last year of master studies.
 - 👔 I'm currently working at Merit Automotive as Junior Software System Test Developer.
-- 💞️ I’m looking for interships around my intrests.
+- 💞️ I’m looking for internships around my intrests.
 - 📫 How to reach me: jnowakagh@gmail.com, jakubno@student.agh.edu.pl.
 
 <!---
