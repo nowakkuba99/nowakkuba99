@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-## Brief introduction
+## Introduction
 👋 Hi, my name is Kuba Nowak. I'm a [AGH](https://www.agh.edu.pl) Mechatronics graduate and Junior Software System Test Developer @[Merit automotive](https://www.merit-automotive.com).
 
 👨‍💻 Currenty I live in Cracow, Poland.
@@ -16,7 +16,7 @@ I'm intrested in C++ coding in embedded system and graphical programing.
 You can see my resume on my website at
 [resume](https://www.jakubnowak.dev/about-me), along with several of my C++ projects and my academic activity.
 
-## :handshake: Connect with me!
+## :handshake: Get in touch!
 
 <div align=center>
   <a href="[https://www.linkedin.com/in/alex-kaszynski-1319b1217/](https://www.linkedin.com/in/jn99/)">
