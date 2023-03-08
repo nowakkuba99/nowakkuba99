@@ -16,7 +16,7 @@ I'm intrested in C++ coding in embedded system and graphical programing.
 You can see my resume on my website at
 [resume](https://www.jakubnowak.dev/about-me), along with several of my C++ projects and my academic activity.
 
-## :handshake: Get in touch!
+## Get in touch!
 
 <div align=center>
   <a href="[https://www.linkedin.com/in/alex-kaszynski-1319b1217/](https://www.linkedin.com/in/jn99/)">
@@ -33,7 +33,7 @@ You can see my resume on my website at
   </a>
 </div>
 
-## :man_technologist: Software languages
+## Software languages
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -42,7 +42,7 @@ You can see my resume on my website at
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
-## :hammer_and_wrench: Software tools
+## Software tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="40" height="40"/>&nbsp;
