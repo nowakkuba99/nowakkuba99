@@ -56,6 +56,7 @@ You can see my resume on my website at
 </div>
 
 ## Most interesting projects
+Checkout pinned repositories below!
 
 <!---
 nowakkuba99/nowakkuba99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
