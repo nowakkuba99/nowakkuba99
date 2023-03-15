@@ -19,7 +19,7 @@ You can see my resume on my website at
 ## Get in touch!
 
 <div align=center>
-  <a href="[https://www.linkedin.com/in/alex-kaszynski-1319b1217/](https://www.linkedin.com/in/jn99/)">
+  <a href="https://www.linkedin.com/in/jn99">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"/>
   </a>
   <a href="https://www.github.com/nowakkuba99">
