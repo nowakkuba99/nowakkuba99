@@ -5,7 +5,7 @@
 </h1>
 
 ## Introduction
-👋 Hi, my name is Kuba Nowak. I'm a [AGH](https://www.agh.edu.pl) Mechatronics graduate and Junior Software System Test Developer @[Merit automotive](https://www.merit-automotive.com).
+👋 Hi, my name is Kuba Nowak. I'm a Software Engineer @[Splunk](www.splunk.com) and [AGH](https://www.agh.edu.pl) Mechatronics graduate
 
 👨‍💻 Currenty I live in Cracow, Poland.
 
