@@ -5,11 +5,11 @@
 </h1>
 
 ## Introduction
-👋 Hi, my name is Kuba Nowak. I'm a Software Engineer @[Splunk](www.splunk.com) and [AGH](https://www.agh.edu.pl) Mechatronics graduate
+👋 Hi, my name is Kuba Nowak. I'm a Software Engineer [Splunk](www.splunk.com) and [AGH](https://www.agh.edu.pl) Mechatronics graduate.
 
 👨‍💻 Currenty I live in Cracow, Poland.
 
-I'm intrested in C++ coding in embedded system and graphical programing.
+I'm intrested in C++ coding and graphical programing.
 
 ### My resume
 
@@ -50,13 +50,13 @@ You can see my resume on my website at
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Ubuntu" alt="Xcode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Ubuntu" alt="Xcode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VScode" width="40" height="40"/>&nbsp;
 
 </div>
 
 ## Most interesting projects
-Checkout pinned repositories below!
+Check out pinned repositories below!
 
 <!---
 nowakkuba99/nowakkuba99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
